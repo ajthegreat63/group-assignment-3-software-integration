@@ -1,2 +1,2 @@
-# group-assignment-3-software-integration
+# Group Assignment 3 - Software Integration
 Software Integration section of Group Assignment
